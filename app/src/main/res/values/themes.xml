@@ -12,7 +12,7 @@
         <item
             name="windowSplashScreenAnimatedIcon">@drawable/ic_logo_aplikasi</item>
         <item
-            name="postSplashScreenTheme">@style/Theme.SplashScreen</item>
+            name="postSplashScreenTheme">@style/Theme.TugasAndroidRosidin</item>
     </style>
 
 </resources>
