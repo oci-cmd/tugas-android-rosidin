@@ -21,6 +21,12 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/button_list_view"
+        android:text="List View / Recycleview"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/button_aritmatika"
         android:text="Event Listener Dasar (Operator Aritmatika)"/>
 
@@ -30,5 +36,46 @@
         android:id="@+id/button_shared_preferences"
         android:text="Shared Preferences, File Storage"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_sqlite_database"
+        android:text="SQLite Database, Operasi CRUD"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_rest_api"
+        android:text="REST API, JSON Parsing"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_message"
+        android:text="Dialog, Toast, Notification, Progress Dialog"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_map_api"
+        android:text="Google Maps API, location service"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_glide_retrofit"
+        android:text="Library penting (Glide, Retrofit)"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_firebase"
+        android:text="Firebase, push notification, authentication"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_final"
+        android:text="Final, Testing, Upload ke Google Play (Optional)"/>
 
 </LinearLayout>
